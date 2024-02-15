@@ -1,6 +1,9 @@
 # AZD CLI
 .azure
 
+# Terraform
+.terraform.lock.hcl
+
 # Logs
 logs
 *.log
