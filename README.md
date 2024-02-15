@@ -28,3 +28,6 @@ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
 
 **Awesome AZD:** *A community-contributed template gallery built to work with the Azure Developer CLI:* 
 https://azure.github.io/awesome-azd/?tags=aks
+
+**Store Terraform state in Azure Storage**
+https://learn.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage
