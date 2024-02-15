@@ -3,7 +3,7 @@
 
 # Terraform
 .terraform.lock.hcl
-infra\.terraform
+infra/.terraform
 
 # Logs
 logs
