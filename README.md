@@ -31,3 +31,6 @@ https://azure.github.io/awesome-azd/?tags=aks
 
 **Store Terraform state in Azure Storage**
 https://learn.microsoft.com/en-us/azure/developer/terraform/store-state-in-azure-storage
+
+**Terraform Started AZD Template**
+https://github.com/Azure-Samples/azd-starter-terraform
